@@ -18,23 +18,19 @@ Berikut adalah cuplikan antarmuka dari website Sistem Manajemen Pekerja:
 
 ### 1. Dashboard Utama
 > Deskripsi: Halaman Utama, Sekalian Juga Halaman Untuk Melihat Seluruh Data Pekerja Yang Sudah Terdata, Dan juga Mencari Pekerja Yang Sudah Terdata
-(<img width="1916" height="971" alt="Screenshot 2026-04-15 134132" src="https://github.com/user-attachments/assets/a7259d66-1302-4687-a1ad-448c78889fdd" />
-)
+<img width="1916" height="971" alt="Screenshot 2026-04-15 134132" src="https://github.com/user-attachments/assets/a7259d66-1302-4687-a1ad-448c78889fdd" />
 
 ### 2. Form Tambah Data Pekerja
 > Deskripsi: Menampilkan Form Untuk Menambah Data Pekerja Yang Belum Terdata
-![Dashboard Utama](<img width="1919" height="967" alt="Screenshot 2026-04-15 135451" src="https://github.com/user-attachments/assets/16913e93-6123-42ee-a5aa-2d3ba06ebb53" />
-)
+<img width="1919" height="967" alt="Screenshot 2026-04-15 135451" src="https://github.com/user-attachments/assets/16913e93-6123-42ee-a5aa-2d3ba06ebb53" />
 
 ### 3. Form Edit Data Pekerja
 > Deskripsi: Menampilkan Form Untuk Mengedit Data Pekerja Nya
-![Daftar Pekerja](<img width="1916" height="967" alt="Screenshot 2026-04-15 135556" src="https://github.com/user-attachments/assets/f611e942-ced4-47c8-8dc9-08033bbd090d" />
-)
+<img width="1916" height="967" alt="Screenshot 2026-04-15 135556" src="https://github.com/user-attachments/assets/f611e942-ced4-47c8-8dc9-08033bbd090d" />
 
 ### 4. Tampilan Saat Mau Hapus Salah Satu Data Pekerja (bakalan muncul Pop Up Di Atas untuk Confirm / Cancel)
 > Deskripsi: Antarmuka input data yang divalidasi untuk memastikan integritas data pekerja baru.
-![Form Input](<img width="1917" height="1026" alt="Screenshot 2026-04-15 140012" src="https://github.com/user-attachments/assets/e1078a2a-e9fe-4657-b05e-7db1976ed79b" />
-)
+<img width="1917" height="1026" alt="Screenshot 2026-04-15 140012" src="https://github.com/user-attachments/assets/e1078a2a-e9fe-4657-b05e-7db1976ed79b" />
 
 ---
 
